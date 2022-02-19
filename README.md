@@ -10,6 +10,11 @@
 <hr>
 <br>
 
+### Onde me Encontrar 🌐
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deiverson-chaves-de-araujo/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/deiverson_ch_oficial/)
+
+<br><br><hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeiversonTI&show_icons=true&theme=radical)
 ## Linguagem mas usadas
@@ -34,3 +39,9 @@
 <br />
 <hr>
 <br />
+
+
+
+
+
+
