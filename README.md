@@ -1,7 +1,7 @@
 ### Olá eu sou Deiverson Chaves 🖐️
 ####
 ####
-#### Sou desenvolvedor Front-End com VueJs.
+#### Sou desenvolvedor Fullstack com conhecimentos em PHP, Laravel, Mysql, GIT, FilamentPHP, VueJs.
 #### Atualmente moro no Rio de Janeiro - RJ.
 #### Estabeleçendo novos desafios, saindo da sua zona de conforto, enfrentando meus maiores medos todos os dias.
 
